@@ -10,6 +10,9 @@ with easy manual adjustment and hotkey/stream deck support.
 
 ![Overlay demo](demo.gif)
 
+<img width="443" height="266" alt="image" src="https://github.com/user-attachments/assets/6b0aa2bb-16fc-4005-83b8-9a4e9ffd2ad0" />
+
+
 --------------------------------
 Setup
 --------------------------------
