@@ -7,6 +7,9 @@ with easy manual adjustment and hotkey/stream deck support.
 
 [**⬇ Download Portable Build (Latest Release)**](https://github.com/hivemindgamesowner-lang/AoE4-W-L-Tally-Overlay/releases/download/v1.0.0/aoe_tally.zip)
 
+
+![Overlay demo](demo.gif)
+
 --------------------------------
 Setup
 --------------------------------
